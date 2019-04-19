@@ -8,7 +8,7 @@
 
 Topic of the project have made a thermometer and display:
 
-* Temperature
+* Temperature (°C)
 * Humidity rates
 * Measure of Propane, Hydrogen, Methane, Gaz de pétrole liquéfié, Dioxyde 'étain.
 
